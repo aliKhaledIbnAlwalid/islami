@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:islamiapp/home/home.dart';
 import 'package:islamiapp/home/Hadeth/hadethContent.dart';
 import 'package:islamiapp/home/Quran/Sura.dart';
-import 'package:islamiapp/home/Theme%20Data/my_theme.dart';
+import 'package:islamiapp/My%20Theme%20Data/my_theme.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:islamiapp/providers/app_config_provider.dart';
 import 'package:islamiapp/providers/themeProvider.dart';

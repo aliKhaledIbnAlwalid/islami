@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:islamiapp/home/Hadeth/hadethContent.dart';
 
-import '../Theme Data/my_theme.dart';
+import '../../My Theme Data/my_theme.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
 class HadethTab extends StatefulWidget {

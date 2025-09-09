@@ -4,7 +4,7 @@ import 'package:provider/provider.dart';
 
 import '../../providers/app_config_provider.dart';
 import '../../providers/themeProvider.dart';
-import '../Theme Data/my_theme.dart';
+import '../../My Theme Data/my_theme.dart';
 import 'Hadeth.dart';
 
 class HadethContent extends StatefulWidget {

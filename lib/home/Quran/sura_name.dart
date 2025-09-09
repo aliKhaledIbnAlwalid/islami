@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../Theme Data/my_theme.dart';
+import '../../My Theme Data/my_theme.dart';
 import 'Sura.dart';
 
 class SuraName extends StatefulWidget {
